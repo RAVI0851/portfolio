@@ -70,6 +70,9 @@ a{
 
 .projects img {
   transition: transform 0.3s ease;
+  width: 16rem;
+  height: 10rem;
+  object-fit: contain;
 }
 
 .projects img:hover {
